@@ -73,7 +73,7 @@ resultados.**
 ![image](https://user-images.githubusercontent.com/84585835/133277520-93b5c887-42d5-4a87-8fa4-1f4a167daa0d.png)
 
 # Video
-https://youtu.be/L-ohAUv6b78
+https://youtu.be/iLCZTmPN9EM
 
 # Conclusiones
 • Al aplicar el Teorema de Thévenin se debe recordar sobre las leyes de Kirchhoff y el método de malla, también sobre conceptos de resistencia en seri y en paralelo para poder dar solución a ejercicio de la práctica y asi poder sacar lo resultados que no piden.
