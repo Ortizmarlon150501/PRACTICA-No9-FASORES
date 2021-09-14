@@ -22,7 +22,7 @@ Objetivo Especifico
 
 # Explicaion del procedimiento
 
-Transforme a su forma polar:
+* Transforme a su forma polar:
 
 ![image](https://user-images.githubusercontent.com/84585835/133273761-ce9daea6-f680-4979-af76-5681bc231d29.png)
 
