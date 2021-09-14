@@ -3,7 +3,7 @@
 # Objetivos
 
 
-# Objetivos Generales
+** Objetivos Generales **
 
 • Analizar el contenido teórico estudiado, mediante el desarrollo de un informe de laboratorio en el cual se expondrán conceptos y definiciones que nos servirán de guía para el desarrollo de problemas planteados, y posteriormente en la elaboración de circuitos tanto en simuladores como en aplicaciones.
 
