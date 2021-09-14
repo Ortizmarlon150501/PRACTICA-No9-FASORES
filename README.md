@@ -16,9 +16,28 @@ Objetivo Especifico
 ![image](https://user-images.githubusercontent.com/84587118/133174459-8031a57d-a29d-4e21-b199-6fcc9ef1e5e1.png)
 
 
+# Material y equipo requerido
 
+![image](https://user-images.githubusercontent.com/84585835/133261052-defe1d54-c958-4541-8b24-18e3a1a33987.png)
 
 # Explicaion del procedimiento
+
+Transforme a su forma polar:
+
+
+
+Transforme a su forma polar:
+
+
+
+Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
+forma rectangular como en su forma polar.
+
+
+
+
+Resuelva las operaciones anteriores por medio de la calculadora y compare
+resultados.
 
 
 # Video
