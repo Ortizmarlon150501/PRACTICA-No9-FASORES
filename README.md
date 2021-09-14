@@ -35,7 +35,7 @@
 
 ![image](https://user-images.githubusercontent.com/84585835/133273627-533a2129-62ea-4ca6-85ce-8236c1202f67.png)
 
-**Transforme a su forma polar:**
+**Transforme a su forma rectangular:**
 
 ![image](https://user-images.githubusercontent.com/84585835/133274171-49807cbf-343e-4065-ae14-29df8e8f7c0f.png)
 
@@ -51,6 +51,26 @@ forma rectangular como en su forma polar.**
 **Resuelva las operaciones anteriores por medio de la calculadora y compare
 resultados.**
 
+**Transforme a su forma polar**
+
+![image](https://user-images.githubusercontent.com/84585835/133276692-f59864a9-c924-467d-ad9f-96d06b344487.png)
+
+![image](https://user-images.githubusercontent.com/84585835/133276774-0f5815cb-8806-4acc-a29d-9cc9f0819b71.png)
+
+![image](https://user-images.githubusercontent.com/84585835/133276948-5a2bfe05-891f-4163-ae8a-b3e8e15464bc.png)
+
+![image](https://user-images.githubusercontent.com/84585835/133277092-f38ea98d-a709-42fb-94eb-2a0409473f56.png)
+
+
+**Transforme a su forma rectangular**
+
+![image](https://user-images.githubusercontent.com/84585835/133277212-f3083d07-b9c1-4dd2-ab07-0fc24cd1cab2.png)
+
+![image](https://user-images.githubusercontent.com/84585835/133277298-bac42416-befa-46af-9720-d7854b91eef3.png)
+
+![image](https://user-images.githubusercontent.com/84585835/133277416-51b3cad2-4794-4c0a-ba45-7625957fd76e.png)
+
+![image](https://user-images.githubusercontent.com/84585835/133277520-93b5c887-42d5-4a87-8fa4-1f4a167daa0d.png)
 
 # Video
 https://youtu.be/L-ohAUv6b78
