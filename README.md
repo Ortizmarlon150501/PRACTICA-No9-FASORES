@@ -49,6 +49,8 @@ forma rectangular como en su forma polar.**
 
 ![image](https://user-images.githubusercontent.com/84585835/133304873-c7d6727c-ae50-4f30-91db-0127a2049f6a.png)
 
+![image](https://user-images.githubusercontent.com/84585835/133306355-ce74ad50-0bd0-4c10-8956-ea5d097e839d.png)
+
 
 
 **Resuelva las operaciones anteriores por medio de la calculadora y compare
@@ -79,12 +81,11 @@ resultados.**
 https://youtu.be/iLCZTmPN9EM
 
 # Conclusiones
-• Al aplicar el Teorema de Thévenin se debe recordar sobre las leyes de Kirchhoff y el método de malla, también sobre conceptos de resistencia en seri y en paralelo para poder dar solución a ejercicio de la práctica y asi poder sacar lo resultados que no piden.
+• Al aplicar los conceptos en la operaciones  con fasores y tambien aplicar como hacer tranformacion de fasores rectangulares a polares son formas que nos ayudan resolver los ejercicios de la prcatica
 
-•
+
 
 # Biografia
 
--Xnomind, “TEOREMA DE THEVENIN EXPLICADO PARA QUE LO ENTIENDAS,” noviembre 7, 2019, 2019. https://www.teorema.top/teorema-de-thevenin/.
 
--BLOG DE WORDPRESS.COM., “Teorema de Thevenin – Análisis de circuitos eléctricos,” 10 noviembre, 2019, 2019. https://dademuch.com/2019/11/10/teorema-de-thevenin-analisis-de-circuitos-electricos/.
+Robbins, Allan H. Willhelm c. Miller. n.d. Analisis de Circuitos Teoria y Practica. Edited by CENGAGE Learning. Cuarta Edi. https://drive.google.com/file/d/1xLy0QqUmSOByE8CDn-6dgCHs8NJL-juA/view.
