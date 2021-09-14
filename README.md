@@ -3,11 +3,11 @@
 # Objetivos
 
 
-** Objetivos Generales **
+**Objetivos Generales
 
 • Analizar el contenido teórico estudiado, mediante el desarrollo de un informe de laboratorio en el cual se expondrán conceptos y definiciones que nos servirán de guía para el desarrollo de problemas planteados, y posteriormente en la elaboración de circuitos tanto en simuladores como en aplicaciones.
 
-# Objetivo Especifico
+**Objetivo Especifico
 
 • Comprender los conceptos básicos y los criterios de formulación de los cálculos para Teorema de Thévenin para así poder dar solución de un circuito mixtos.
 
@@ -24,7 +24,7 @@
 
 # Explicaion del procedimiento
 
-Transforme a su forma polar:
+**Transforme a su forma polar:
 
 ![image](https://user-images.githubusercontent.com/84585835/133273761-ce9daea6-f680-4979-af76-5681bc231d29.png)
 
@@ -42,13 +42,13 @@ Transforme a su forma polar:
 ![image](https://user-images.githubusercontent.com/84585835/133274201-44234fbb-3957-4492-9610-d9291c2d0421.png)
 
 
-Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
+**Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
 forma rectangular como en su forma polar.
 
 
 
 
-Resuelva las operaciones anteriores por medio de la calculadora y compare
+**Resuelva las operaciones anteriores por medio de la calculadora y compare
 resultados.
 
 
