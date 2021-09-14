@@ -47,6 +47,7 @@ forma rectangular como en su forma polar.**
 
 ![image](https://user-images.githubusercontent.com/84585835/133302515-503afa3c-ad0e-45bd-ba2e-04356cc81ced.png)
 
+![image](https://user-images.githubusercontent.com/84585835/133304725-0d997aa0-0a4a-4fa4-8605-7ebf275b92cc.png)
 
 
 **Resuelva las operaciones anteriores por medio de la calculadora y compare
