@@ -35,9 +35,9 @@ Transforme a su forma polar:
 
 Transforme a su forma polar:
 
-![image](https://user-images.githubusercontent.com/84585835/133274000-d2829b29-190f-4835-bbfd-cc7e6af010f2.png)
+![image](https://user-images.githubusercontent.com/84585835/133274171-49807cbf-343e-4065-ae14-29df8e8f7c0f.png)
 
-![image](https://user-images.githubusercontent.com/84585835/133274053-bfb95bff-45c9-491a-9c7d-334cea2b773b.png)
+![image](https://user-images.githubusercontent.com/84585835/133274201-44234fbb-3957-4492-9610-d9291c2d0421.png)
 
 
 Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
