@@ -13,6 +13,9 @@ Objetivo Especifico
 
 # Marco Teorico
 
+![image](https://user-images.githubusercontent.com/84587118/133174131-d128ce17-e043-44bc-a7cb-d5c73c20303f.png)
+
+
 
 # Explicaion del procedimiento
 
