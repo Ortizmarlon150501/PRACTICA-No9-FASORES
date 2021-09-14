@@ -24,7 +24,13 @@ Objetivo Especifico
 
 Transforme a su forma polar:
 
+![image](https://user-images.githubusercontent.com/84585835/133273421-211a835e-5d9a-47df-a155-0a9b11e273c7.png)
 
+![image](https://user-images.githubusercontent.com/84585835/133273484-06edbcc7-ad5f-4fa6-871b-9df82eae9de3.png)
+
+![image](https://user-images.githubusercontent.com/84585835/133273553-14c9bdeb-0cc9-409b-8637-8ed48908fb2a.png)
+
+![image](https://user-images.githubusercontent.com/84585835/133273627-533a2129-62ea-4ca6-85ce-8236c1202f67.png)
 
 Transforme a su forma polar:
 
