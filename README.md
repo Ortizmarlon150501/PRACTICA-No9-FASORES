@@ -45,6 +45,7 @@
 **Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
 forma rectangular como en su forma polar.**
 
+![image](https://user-images.githubusercontent.com/84585835/133302515-503afa3c-ad0e-45bd-ba2e-04356cc81ced.png)
 
 
 
