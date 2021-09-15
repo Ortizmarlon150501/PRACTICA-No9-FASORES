@@ -80,7 +80,7 @@ resultados.**
 https://youtu.be/iLCZTmPN9EM
 
 # Conclusiones
-• Al aplicar los conceptos en la operaciones  con fasores y tambien aplicar como hacer tranformacion de fasores rectangulares a polares son formas que nos ayudan resolver los ejercicios de la prcatica
+• Al aplicar los conceptos en las operaciones con fasores se debe tomar en cuenta también lo fundamentos de cómo realizar una transformación de fasores rectangulares a polares o viceversa por lo puesto que nos ayuda resolver de forma mas rápida y eficaz los ejercicios de operaciones con fasores.
 
 
 
