@@ -5,14 +5,13 @@
 
 **Objetivos Generales**
 
-• Analizar el contenido teórico estudiado, mediante el desarrollo de un informe de laboratorio en el cual se expondrán conceptos y definiciones que nos servirán de guía para el desarrollo de problemas planteados, y posteriormente en la elaboración de circuitos tanto en simuladores como en aplicaciones.
+• Comprender los fundamentos sobre opresiones aritméticas con números complejos en los fasores de forma polar o de su otra forma rectangular
 
 **Objetivo Especifico**
 
-• Comprender los conceptos básicos y los criterios de formulación de los cálculos para Teorema de Thévenin para así poder dar solución de un circuito mixtos.
+• Aplicar los conceptos para hacer suma, resta, multiplicación y división de fasores
 
-• Asociar el conocimiento de las leyes de Kirchhoff y el método de malla con el Teorema de Thévenin que ayudara a dar solución a el circuito de la práctica planteada.
-
+• Asociar el conocimiento sobre la transformación de fasores de forma polar a rectangular y viceversa con la parte de la opresiones y facilitar el desarrollo de las mismas
 # Marco Teorico
 
 ![image](https://user-images.githubusercontent.com/84587118/133174459-8031a57d-a29d-4e21-b199-6fcc9ef1e5e1.png)
